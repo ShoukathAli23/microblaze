@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.2 (64-bit)
+# SW Build 2348494 on Mon Oct  1 18:25:39 MDT 2018
+# IP Build 2318053 on Mon Oct  1 21:44:26 MDT 2018
+# Start of session at: Sat Oct 13 17:43:32 2018
+# Process ID: 23101
+# Current directory: /media/jdm/JDM/Git/reconrtos/Code/Training/MicroBlaze_freeRTOS_HelloWorld/MicroBlaze_freeRTOS_HelloWorld.runs/MB_freeRTOS_ilmb_bram_if_cntlr_0_synth_1
+# Command line: vivado -log MB_freeRTOS_ilmb_bram_if_cntlr_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MB_freeRTOS_ilmb_bram_if_cntlr_0.tcl
+# Log file: /media/jdm/JDM/Git/reconrtos/Code/Training/MicroBlaze_freeRTOS_HelloWorld/MicroBlaze_freeRTOS_HelloWorld.runs/MB_freeRTOS_ilmb_bram_if_cntlr_0_synth_1/MB_freeRTOS_ilmb_bram_if_cntlr_0.vds
+# Journal file: /media/jdm/JDM/Git/reconrtos/Code/Training/MicroBlaze_freeRTOS_HelloWorld/MicroBlaze_freeRTOS_HelloWorld.runs/MB_freeRTOS_ilmb_bram_if_cntlr_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source MB_freeRTOS_ilmb_bram_if_cntlr_0.tcl -notrace
